@@ -9,6 +9,7 @@ public class Room {
 	private BufferedImage image;
 
 	private boolean obstruction;
+	@SuppressWarnings("unused")
 	private boolean damage;
 	private boolean hasUnit;
 
